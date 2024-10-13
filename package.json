@@ -1,0 +1,21 @@
+{
+  "name": "npm-for-beginners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.6.1",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.11.1",
+    "sass": "^1.79.4"
+  }
+}

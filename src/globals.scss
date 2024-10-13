@@ -1,0 +1,11 @@
+ @mixin green-color {
+   color: green;
+ }
+
+ body {
+   h1 {
+     @include green-color;
+
+     text-transform: uppercase;
+   }
+ }
